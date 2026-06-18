@@ -1,0 +1,6 @@
+{
+  "name": "CallBridge",
+  "description": "Real-time PC to Phone bridge for direct dialing, background listening, and historic call logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
